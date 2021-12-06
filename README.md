@@ -1,7 +1,7 @@
 # odin-recipes
 
-1 - Utilisation en réel de git et github
+05/12 - Utilisation en réel de git et github
 lien entre plusieurs fichiers html
 add / commit / push git
 
-2 - 
+06/12 - init fichier CSS - mise en page sommaire + création bouton retour sur les recettes
